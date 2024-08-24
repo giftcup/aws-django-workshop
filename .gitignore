@@ -1,0 +1,7 @@
+db.sqlite3/
+venv/
+.history/
+__pycache__/
+*.pyc
+.vscode/
+.idea/
